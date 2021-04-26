@@ -1,0 +1,4 @@
+script: meli.py
+
+1- se debe ejecutar el script e instroducir el numero de ID para su búsqueda.
+2- Una vez terminada la ejecución se procede al guardado del archivo log. En caso de no poder guardarlo, se emitirá un mensaje de error.
